@@ -1,73 +1,65 @@
-# Welcome to your Lovable project
+# MySafeSpace 🧠
 
-## Project info
+![MySafeSpace Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=MySafeSpace+-+A+Safe+Space+For+Your+Mind)
 
-**URL**: https://lovable.dev/projects/f7567693-b4a9-4cf3-be46-71fc8952020e
+**A digital sanctuary for mental wellness and emotional resilience.**
 
-## How can I edit this code?
+**Live Pre-Launch Page:** [https://mysafespace.lovable.app/](https://mysafespace.lovable.app/)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 🎯 Overview
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f7567693-b4a9-4cf3-be46-71fc8952020e) and start prompting.
+**MySafeSpace** is a web-based application designed to provide users with a private, secure, and supportive environment to manage their mental well-being. In a world of constant noise and pressure, we offer a simple, intuitive tool to help individuals unwind, reflect, and build healthier mental habits.
 
-Changes made via Lovable will be committed automatically to this repo.
+This repository contains the frontend and backend logic for the MySafeSpace application, currently in active development.
 
-**Use your preferred IDE**
+> **Current Status:** `v0.1.0` - **Pre-Launch & MVP Development**
+> We are currently building the core features and collecting interest via our landing page.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## ✨ Vision
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Our vision is to make mental health support accessible, stigma-free, and integrated into daily life. We believe that everyone deserves a safe space to process their thoughts and feelings, and we are building the tool we wish existed.
 
-Follow these steps:
+## 🚀 Core Features (Planned & In Development)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### MVP (Minimum Viable Product)
+- **🗓️ Mood Tracker:** Log daily emotions and identify patterns over time.
+- **📓 Digital Journal:** A secure, private space for thoughts and reflections with rich-text formatting.
+- **🧘 Guided Breathing Exercises:** Short, audio-guided sessions to reduce anxiety and center oneself.
+- **🔐 Secure & Private Auth:** User registration and login with a focus on data privacy. All user data is encrypted.
+- **📈 Basic Insights:** Simple visualizations of mood trends.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Future Roadmap
+- **Customizable Breathing & Meditation:** Allow users to set duration and patterns.
+- **Gratitude Logging:** A dedicated space for positive reflections.
+- **Goal Setting:** Set and track small, manageable wellness goals.
+- **Resource Library:** Curated articles, podcasts, and tips on mental wellness.
+- **Community Features (Tentative):** Anonymous, moderated support circles.
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🤝 Contributing
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+We are not open for public contributions at this **pre-launch** stage. However, we welcome feedback and feature suggestions.
 
-**Edit a file directly in GitHub**
+1.  Fork the Project (when public)
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📄 License
 
-**Use GitHub Codespaces**
+This project is currently proprietary. All rights reserved. The source code in this repository is confidential and intended for the development team of MySafeSpace only.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 💌 Contact
 
-This project is built with:
+**Project Maintainer:** [Group 4]  
+**Email:** [group4@mysafespace.app]  
+**Project Link:** [https://github.com/group4/mysafespace](https://github.com/Joanarthur/mysafespace)  
+**Interest Page:** [https://mysafespace.lovable.app/](https://mysafespace.lovable.app/)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/f7567693-b4a9-4cf3-be46-71fc8952020e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**Made with ❤️ and a lot of ☕ for a healthier mind.**
