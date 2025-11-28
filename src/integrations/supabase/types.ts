@@ -14,7 +14,45 @@ export type Database = {
   }
   public: {
     Tables: {
-      [_ in never]: never
+      screenshots: {
+        Row: {
+          analysis_result: Json | null
+          created_at: string | null
+          id: string
+          image_url: string
+          recommended_actions: string[] | null
+          risk_score: number | null
+          status: string | null
+          threat_categories: string[] | null
+          updated_at: string | null
+          user_id: string | null
+        }
+        Insert: {
+          analysis_result?: Json | null
+          created_at?: string | null
+          id?: string
+          image_url: string
+          recommended_actions?: string[] | null
+          risk_score?: number | null
+          status?: string | null
+          threat_categories?: string[] | null
+          updated_at?: string | null
+          user_id?: string | null
+        }
+        Update: {
+          analysis_result?: Json | null
+          created_at?: string | null
+          id?: string
+          image_url?: string
+          recommended_actions?: string[] | null
+          risk_score?: number | null
+          status?: string | null
+          threat_categories?: string[] | null
+          updated_at?: string | null
+          user_id?: string | null
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never
