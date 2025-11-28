@@ -1,6 +1,6 @@
 # MySafeSpace 🧠
 
-![MySafeSpace Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=MySafeSpace+-+A+Safe+Space+For+Your+Mind)
+![MySafeSpace Banner]([https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=MySafeSpace+-+A+Safe+Space+For+Your+Mind](https://unsplash.com/photos/brown-wooden-table-near-white-wall-MChSQHxGZrQ))
 
 **A digital sanctuary for mental wellness and emotional resilience.**
 
